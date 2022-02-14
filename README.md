@@ -3,3 +3,4 @@
 -Current Company: Technovert
 -Profile: FSD
 -Location: Hyderabad
+-Currently WFH

@@ -5,3 +5,4 @@
 -Location: Hyderabad
 -Currently WFH (Mathura, UP)
 -Experience: 9+ months
+-Languages: C#, Python

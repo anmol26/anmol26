@@ -6,4 +6,4 @@
 -Currently WFH (Mathura, UP)
 -Experience: 9+ months
 -Languages: C#, Python
--LInkedIn: https://www.linkedin.com/in/anmol-khandelwal-1a35b4157/
+-LinkedIn : https://www.linkedin.com/in/anmol-khandelwal-1a35b4157/

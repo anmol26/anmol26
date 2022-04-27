@@ -4,6 +4,6 @@
 -Profile: FSD
 -Location: Hyderabad
 -Currently WFH (Mathura, UP)
--Experience: 9+ months
+-Experience: 10+ months
 -Languages: C#, Python
 -LinkedIn : https://www.linkedin.com/in/anmol-khandelwal-1a35b4157/
